@@ -1,0 +1,26 @@
+#banner {
+  background-size: cover;
+  height: 570px;
+  background-position: 50%;
+  display: flex;
+}
+
+.container {
+  width: 700px;
+  margin: auto;
+  justify-content: center;
+}
+
+#banner h1 {
+  color: white;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+}
+
+#banner h2 {
+  color: rgb(199, 199, 199);
+  font-family: 'Hind', sans-serif;
+  letter-spacing: 0.5px;
+  font-size: 20px;
+}

@@ -1,0 +1,22 @@
+.footer-container {
+  height: 200px;
+  background-color: #2c2b2b;
+  text-align: center;
+}
+
+.links {
+  padding: 40px 0px 20px 0px;
+  margin: 10px;
+}
+
+.links a {
+  color: #1EDD88;
+  font-size: 30px;
+  padding: 3px;
+}
+
+.footer-container p {
+  color: #6B6C6C;
+  font-family: 'Hind', sans-serif;
+  font-size: 15px;
+}
